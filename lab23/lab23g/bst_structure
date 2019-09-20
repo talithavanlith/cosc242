@@ -1,0 +1,20 @@
+bst insert=
+if
+if -> else if
+b->left = ijeoje
+
+bst free=
+if
+if
+b->left = hhfruf
+
+void preorder/inorder=
+if
+if
+if
+if
+bst_preorder(b->right, f);
+
+int search = 
+if -> else if -> else
+return bst_search(uihif)
